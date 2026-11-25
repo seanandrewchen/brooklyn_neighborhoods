@@ -1,0 +1,13 @@
+# Allowlist: only the paper, the main notebook and a few figures are published.
+# Everything else here (data, API key, literature PDFs, photos, drafts) stays local.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/SeanChen_LinaMoe_AMM_FinalPaper.pdf
+!/SeanChen_LinaMoe_AMM_FinalProject_JupyterNotebook.ipynb
+!/images/
+/images/*
+!/images/maps_kmeans.jpg
+!/images/maps_azp.jpg
+!/images/maps_maxp.jpg

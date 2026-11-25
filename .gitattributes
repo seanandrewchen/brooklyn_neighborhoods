@@ -1,0 +1,2 @@
+# Notebook outputs are cleared on commit (the local copy keeps them)
+*.ipynb filter=clearoutput
